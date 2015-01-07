@@ -7,6 +7,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AkkaSocketClient/src/main/scala/com/example/ApplicationMain.scala" afterPath="$PROJECT_DIR$/../AkkaSocketClient/src/main/scala/com/example/ApplicationMain.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AkkaSocketClient/src/main/scala/com/example/Client.scala" afterPath="$PROJECT_DIR$/../AkkaSocketClient/src/main/scala/com/example/Client.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AkkaSocketClient/src/main/scala/com/example/ClientHandler.scala" afterPath="$PROJECT_DIR$/../AkkaSocketClient/src/main/scala/com/example/ClientHandler.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/example/Server.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/example/Server.scala" />
     </list>
     <ignored path="AkkaSocketServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,20 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Server.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Server.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/Server.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="776">
+              <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerHandler.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServerHandler.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ServerHandler.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3084833" vertical-offset="0" max-vertical-offset="778">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="e#21#67#0" expanded="true" />
@@ -104,8 +105,8 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/SimplisticHandler.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/SeverHandler.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/example/Server.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/ServerHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/example/Server.scala" />
       </list>
     </option>
   </component>
@@ -613,12 +614,12 @@
       <updated>1420515063005</updated>
       <workItem from="1420515065776" duration="927000" />
       <workItem from="1420520885029" duration="2840000" />
-      <workItem from="1420606216192" duration="2582000" />
+      <workItem from="1420606216192" duration="2591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6349000" />
+    <option name="totallyTimeSpent" value="6358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -776,21 +777,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/Server.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ServerHandler.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3084833" vertical-offset="0" max-vertical-offset="778">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="e#21#67#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/Server.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="776">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>
