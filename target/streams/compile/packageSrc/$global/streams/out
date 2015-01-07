@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/akkasocketserver_2.10-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/example/ApplicationMain.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/src/main/scala/com/example/ApplicationMain.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/Server.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/src/main/scala/com/example/Server.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/SimplisticHandler.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/src/main/scala/com/example/SimplisticHandler.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

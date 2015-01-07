@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.example" : [{"object" : "com\/example\/ApplicationMain$.html", "name" : "com.example.ApplicationMain"}, {"class" : "com\/example\/Server.html", "object" : "com\/example\/Server$.html", "name" : "com.example.Server"}, {"class" : "com\/example\/SimplisticHandler.html", "name" : "com.example.SimplisticHandler"}]};

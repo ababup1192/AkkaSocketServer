@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/akkasocketserver_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/example/SimplisticHandler$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/SimplisticHandler$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	com/example[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/example/Server$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/Server$.class[0m
+[0m[[0mdebug[0m] [0m	com/example/ApplicationMain$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/ApplicationMain$.class[0m
+[0m[[0mdebug[0m] [0m	com/example/Server$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/Server$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	com/example/ApplicationMain$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/ApplicationMain$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	com/example/ApplicationMain.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/ApplicationMain.class[0m
+[0m[[0mdebug[0m] [0m	com/example/Server.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/Server.class[0m
+[0m[[0mdebug[0m] [0m	com/example/Server$$anonfun$props$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/Server$$anonfun$props$1.class[0m
+[0m[[0mdebug[0m] [0m	com/example/SimplisticHandler.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/watanabemirai/WorkSpace/program/scala/AkkaSocketServer/target/scala-2.10/classes/com/example/SimplisticHandler.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
