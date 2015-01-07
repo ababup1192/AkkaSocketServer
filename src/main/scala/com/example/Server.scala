@@ -14,7 +14,7 @@ class Server extends Actor with ActorLogging {
   import akka.io.Tcp._
   import context.system
 
-  IO(Tcp) ! Bind(self, new InetSocketAddress("akka-socket-server3214.herokuapp.com", 16948))
+  IO(Tcp) ! Bind(self, new InetSocketAddress("localhost", 10052))
 
   def receive = {
     case b@Bound(address) =>
